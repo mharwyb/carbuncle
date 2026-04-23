@@ -1,0 +1,222 @@
+{
+    "c2array": true,
+    "size": [
+        4,
+        17,
+        1
+    ],
+    "data": [
+        [
+            [
+                ""
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "SKILL"
+            ],
+            [
+                "Lucid Dreaming"
+            ],
+            [
+                "Lucid Dreaming"
+            ],
+            [
+                "Radiant Aegis"
+            ],
+            [
+                "Radiant Aegis"
+            ],
+            [
+                "Outburst"
+            ],
+            [
+                "Outburst"
+            ],
+            [
+                "Fester"
+            ],
+            [
+                "Painflare"
+            ],
+            [
+                "Physick"
+            ],
+            [
+                "Resurrection"
+            ],
+            [
+                "Channel Pheonix"
+            ],
+            [
+                "Channel Bahamut"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "EFFECT DESCRIPTION"
+            ],
+            [
+                "Receive +2MP at no cost."
+            ],
+            [
+                "Receive +2MP at no cost."
+            ],
+            [
+                "Shield one of your HP hearts. (Max stack 3.)"
+            ],
+            [
+                "Shield one of your HP hearts. (Max stack 3.)"
+            ],
+            [
+                "Increase aether gauge by +1 - 3AP at random."
+            ],
+            [
+                "Increase aether gauge by +1 - 3AP at random."
+            ],
+            [
+                "Increase aether gauge by +1AP."
+            ],
+            [
+                "Increase aether gauge by +2AP."
+            ],
+            [
+                "Heal +1HP."
+            ],
+            [
+                "If you overclock the aether gauge, it will be set back."
+            ],
+            [
+                "Every strike you deal this round heals you for +2HP."
+            ],
+            [
+                "Automatically deals the maximum (3) outgoing strikes if duel is won."
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "MP COST"
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                2
+            ],
+            [
+                2
+            ],
+            [
+                2
+            ],
+            [
+                2
+            ],
+            [
+                2
+            ],
+            [
+                2
+            ],
+            [
+                2
+            ],
+            [
+                3
+            ],
+            [
+                2
+            ],
+            [
+                2
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ]
+    ]
+}
